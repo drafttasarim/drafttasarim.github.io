@@ -1,0 +1,1 @@
+document.querySelectorAll("audio,video").forEach(media=>media.addEventListener("play",()=>document.querySelectorAll("audio,video").forEach(other=>{if(other!==media)other.pause()})));
