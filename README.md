@@ -4,9 +4,26 @@ GitHub Pages: https://drafttasarim.github.io/
 
 - /libalive/ — gerçek ekranlar, Pocket ses örnekleri, kullanım videosu ve ücretlendirme.
 - /libalive/rehber/ — PDF ve fotoğraftan Türkçe sesli okuma rehberi.
-- /shroomtrail/ — geliştirme aşamasındaki saha rehberi ve günlük.
+- /shroomtrail/ — App Store'da yayınlanan saha rehberi ve günlük.
 - /cleanphoto/, /albiqo/, /paletivo/ — uygulama tanıtımları.
+- /cad/ — geliştirme aşamasındaki DRAFTTASARIM CAD tanıtımı.
+- /hubris/ — geliştirme aşamasındaki HUBRIS: Path to Salvation tanıtımı.
+- /HUBRIS-privacy/ — ayrı public depodan sunulan HUBRIS gizlilik ve destek sayfaları.
 - /robots.txt — bu alan adındaki bütün uygulama sayfaları için OAI-SearchBot erişimi.
+
+## Ana sayfa uygulama listesi
+
+| Uygulama | Durum | Tanıtım |
+| --- | --- | --- |
+| LibAlive | App Store'da | /libalive/ |
+| ShroomTrail | App Store'da | /shroomtrail/ |
+| CleanPhoto | App Store'da | /cleanphoto/ |
+| Albiqo | App Store'da | /albiqo/ |
+| Paletivo | Geliştiriliyor | /paletivo/ |
+| DRAFTTASARIM CAD | Geliştiriliyor | /cad/ |
+| HUBRIS: Path to Salvation | Geliştiriliyor | /hubris/ |
+
+Yeni bir uygulama üzerinde çalışılmaya başlandığında ana sayfadaki geliştirme listesine eklenir. Yayınlandığında App Store durumu doğrulanır, ana sayfada yayınlanan uygulamalara taşınır ve kendi sayfasındaki indirme bağlantıları güncellenir. Her değişiklikte bölüm sayıları, sayfa açıklamaları ve sitemap birlikte kontrol edilir. Kesinleşmemiş yayın tarihi veya uygulanmamış özellik mevcutmuş gibi sunulmaz.
 
 Mevcut bağımsız gizlilik depoları ve URL’leri korunur. ShroomTrail politikası drafttasarim/ShroomTrail-privacy deposundadır.
 
