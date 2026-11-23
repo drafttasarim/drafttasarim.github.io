@@ -8,3 +8,8 @@
 @media(max-width:800px){.hub header{align-items:flex-start;gap:20px;flex-direction:column}.hub nav{flex-wrap:wrap;gap:12px 20px}.collection-heading{display:block;padding:20px 6% 25px}.collection-heading>p{max-width:100%;margin-top:18px}.collection-heading h2{font-size:37px}.app-card h3{font-size:36px}.card-wide{grid-column:auto}.upcoming{padding-top:25px}.project-wordmark{min-height:280px}.project-wordmark>span{font-size:48px}.project-wordmark>small{font-size:10px;letter-spacing:.18em}.project-actions{flex-direction:column;gap:20px}}
 
 @media(min-width:1100px){.upcoming .app-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.upcoming .app-card{padding:28px}.upcoming .app-card h3{font-size:36px}.upcoming .card-wide{grid-column:auto}.upcoming .card-head{gap:10px}.upcoming .badge{font-size:8px;padding:6px 8px}.upcoming .app-card>p:first-of-type{font-size:16px}}
+
+.upcoming .app-card.camera-scan {
+  grid-column: 1 / -1;
+  background: #dcebe5;
+}
