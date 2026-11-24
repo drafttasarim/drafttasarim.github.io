@@ -1,0 +1,2 @@
+OWNERDOMAIN=drafttasarim.github.io
+ironsrc.com, 703405, DIRECT
